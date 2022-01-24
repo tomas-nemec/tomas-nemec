@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @tomas-nemec
+- 👀 I’m interested in all programming languages but mostly to Python and C
+- 🌱 I’m currently studying at STU FIIT
+- 📫 You can reach me at: xnemect@gmail.com
+
+<!---
+tomas-nemec/tomas-nemec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
