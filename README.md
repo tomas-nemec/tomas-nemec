@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomas-nemec
-- 👀 I’m interested in all programming languages but mostly to Python and C
+- 👀 I’m interested in all programming languages but mostly in Python and C
 - 🌱 I’m currently studying at STU FIIT
 - 📫 You can reach me at: xnemect@gmail.com
 
